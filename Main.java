@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
+
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 class Player implements Comparable<Player>{
     private String isim;
     
